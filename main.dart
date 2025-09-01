@@ -27,7 +27,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 100;
+  int _counter = 200;
   DateTime _lastUpdate = DateTime.now();
 
   void _incrementCounter() {
